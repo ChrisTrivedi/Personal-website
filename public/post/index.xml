@@ -5,8 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chris Trivedi. Theme &amp; banner inspiration: [Luke Holman](https://twitter.com/lukeholman_evo)
-</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chris Trivedi</copyright>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>

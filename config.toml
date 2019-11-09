@@ -9,11 +9,11 @@ title = "Christopher B Trivedi"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://christrivedi.netlify.com/"
+baseurl = "https://christrivedi.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2019 Chris Trivedi. <br>Theme & banner inspiration: [Luke Holman](https://twitter.com/lukeholman_evo)<br>"
+copyright = "&copy; 2019 Chris Trivedi"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "54260986"
