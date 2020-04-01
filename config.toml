@@ -13,7 +13,7 @@ baseurl = "https://christrivedi.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2019 Chris Trivedi"
+copyright = "&copy; 2020 Chris Trivedi"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "54260986"

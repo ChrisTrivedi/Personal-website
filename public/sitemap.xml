@@ -1,24 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/alexis-s.-templeton/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/blake-w.-stamps/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/graham-e.-lau/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-r.-spear/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/borup-metagenomics/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-e.-grasby/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,42 +73,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/geochemistry/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/graham-e.-lau/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/john-r.-spear/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/borup-16s/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/stephen-e.-grasby/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,11 +90,6 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/blake-w.-stamps/</loc>
-    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

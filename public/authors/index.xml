@@ -5,34 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chris Trivedi</copyright><lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently working as a postdoctoral scholar in the &lt;a href=&#34;https://www.gfz-potsdam.de/en/section/interface-geochemistry/overview/&#34; target=&#34;_blank&#34;&gt;Interface Geochemistry&lt;/a&gt; group of Liane G. Benning at the &lt;a href=&#34;https://www.gfz-potsdam.de/startseite/&#34; target=&#34;_blank&#34;&gt;German Research Centre for Geosciences GFZ&lt;/a&gt; in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, metabolomics, FT-ICR mass spectrometry, etc. Currently, we are focused on glacial environments in Greenland and Iceland, having just returned from a successful field campaign in July/August 2019.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently working as a postdoctoral scholar in the &lt;a href=&#34;https://www.gfz-potsdam.de/en/section/interface-geochemistry/overview/&#34;&gt;Interface Geochemistry&lt;/a&gt; group of Liane G. Benning at the &lt;a href=&#34;https://www.gfz-potsdam.de/startseite/&#34;&gt;German Research Centre for Geosciences GFZ&lt;/a&gt; in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, metabolomics, FT-ICR mass spectrometry, etc. Currently, we are focused on glacial environments in Greenland and Iceland, and Norway.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alexis S. Templeton</title>
       <link>/authors/alexis-s.-templeton/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/alexis-s.-templeton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake W. Stamps</title>
+      <link>/authors/blake-w.-stamps/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/blake-w.-stamps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graham E. Lau</title>
       <link>/authors/graham-e.-lau/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/graham-e.-lau/</guid>
       <description></description>
     </item>
@@ -40,7 +42,7 @@
     <item>
       <title>John R. Spear</title>
       <link>/authors/john-r.-spear/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/john-r.-spear/</guid>
       <description></description>
     </item>
@@ -48,16 +50,8 @@
     <item>
       <title>Stephen E. Grasby</title>
       <link>/authors/stephen-e.-grasby/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/stephen-e.-grasby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blake W. Stamps</title>
-      <link>/authors/blake-w.-stamps/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/blake-w.-stamps/</guid>
       <description></description>
     </item>
     

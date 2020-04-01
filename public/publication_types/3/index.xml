@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graham E. Lau | Christopher B Trivedi</title>
-    <link>/authors/graham-e.-lau/</link>
-      <atom:link href="/authors/graham-e.-lau/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graham E. Lau</description>
+    <title>3 | Christopher B Trivedi</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+    </image>
+    
     <item>
       <title>Metagenomic Insights into Microbial Metabolisms of a Sulfur-Influenced Glacial Ecosystem</title>
       <link>/publication/borup-metagenomics/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/borup-metagenomics/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Low-Temperature Sulfidic-Ice Microbial Communities, Borup Fiord Pass, Canadian High Arctic</title>
-      <link>/publication/borup-16s/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/borup-16s/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
