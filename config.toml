@@ -16,7 +16,7 @@ baseurl = "https://christrivedi.com/"
 copyright = "&copy; 2020 Chris Trivedi"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "54260986"
+googleAnalytics = "UA-54260986-1"
 
 ############################
 ## Advanced options below ##
