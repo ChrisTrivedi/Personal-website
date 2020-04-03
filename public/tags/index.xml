@@ -2,55 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Christopher B Trivedi</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christrivedi.com/tags/</link>
+      <atom:link href="https://christrivedi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://christrivedi.com/tags/</link>
     </image>
-    
-    <item>
-      <title>Borup Fiord Pass</title>
-      <link>/tags/borup-fiord-pass/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/borup-fiord-pass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geochemistry</title>
-      <link>/tags/geochemistry/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/geochemistry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sulfur</title>
-      <link>/tags/sulfur/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/sulfur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dendrolite cones</title>
-      <link>/tags/dendrolite-cones/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/dendrolite-cones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hot springs</title>
-      <link>/tags/hot-springs/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/hot-springs/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

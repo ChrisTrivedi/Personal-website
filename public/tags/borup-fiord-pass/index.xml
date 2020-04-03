@@ -2,33 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Borup Fiord Pass | Christopher B Trivedi</title>
-    <link>/tags/borup-fiord-pass/</link>
-      <atom:link href="/tags/borup-fiord-pass/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christrivedi.com/tags/borup-fiord-pass/</link>
+      <atom:link href="https://christrivedi.com/tags/borup-fiord-pass/index.xml" rel="self" type="application/rss+xml" />
     <description>Borup Fiord Pass</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Borup Fiord Pass</title>
-      <link>/tags/borup-fiord-pass/</link>
+      <link>https://christrivedi.com/tags/borup-fiord-pass/</link>
     </image>
     
     <item>
       <title>Low-Temperature Sulfidic-Ice Microbial Communities, Borup Fiord Pass, Canadian High Arctic</title>
-      <link>/publication/borup-16s/</link>
+      <link>https://christrivedi.com/publication/borup-16s/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/borup-16s/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <guid>https://christrivedi.com/publication/borup-16s/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). ---&gt;
 </description>
     </item>
     
     <item>
       <title>Low-temperature formation and stabilization of rare allotropes of cyclooctasulfur (β-S8 and γ-S8) in the presence of organic carbon at a sulfur-rich glacial site in the Canadian High Arctic</title>
-      <link>/publication/borup-allotropes/</link>
+      <link>https://christrivedi.com/publication/borup-allotropes/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/borup-allotropes/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <guid>https://christrivedi.com/publication/borup-allotropes/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). ---&gt;
 </description>
     </item>
     
