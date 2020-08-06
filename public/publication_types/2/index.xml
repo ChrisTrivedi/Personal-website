@@ -2,21 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Christopher B Trivedi</title>
-    <link>https://christrivedi.com/publication_types/2/</link>
-      <atom:link href="https://christrivedi.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
-      <link>https://christrivedi.com/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
+      <title>Microbial Metabolic Redundancy Is a Key Mechanism in a Sulfur-Rich Glacial Ecosystem</title>
+      <link>/publication/borup-meta/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/borup-meta/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insights into the dynamics between viruses and their hosts in a hot spring microbial mat</title>
+      <link>/publication/cone-pool-phage/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cone-pool-phage/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). ---&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Low-Temperature Sulfidic-Ice Microbial Communities, Borup Fiord Pass, Canadian High Arctic</title>
-      <link>https://christrivedi.com/publication/borup-16s/</link>
+      <link>/publication/borup-16s/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/borup-16s/</guid>
+      <guid>/publication/borup-16s/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,9 +83,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Carbonate-rich dendrolitic cones: insights into a modern analog for incipient microbialite formation, Little Hot Creek, Long Valley Caldera, California</title>
-      <link>https://christrivedi.com/publication/cone-pool/</link>
+      <link>/publication/cone-pool/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/cone-pool/</guid>
+      <guid>/publication/cone-pool/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -60,9 +106,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Low-temperature formation and stabilization of rare allotropes of cyclooctasulfur (β-S8 and γ-S8) in the presence of organic carbon at a sulfur-rich glacial site in the Canadian High Arctic</title>
-      <link>https://christrivedi.com/publication/borup-allotropes/</link>
+      <link>/publication/borup-allotropes/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/borup-allotropes/</guid>
+      <guid>/publication/borup-allotropes/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -83,9 +129,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Sacrificing power for more cost-effective treatment: A techno-economic approach for engineering microbial fuel cells</title>
-      <link>https://christrivedi.com/publication/stoll-fuel-cell/</link>
+      <link>/publication/stoll-fuel-cell/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/stoll-fuel-cell/</guid>
+      <guid>/publication/stoll-fuel-cell/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -3,216 +3,321 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://christrivedi.com/publication_types/3/</loc>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alexis-s.-templeton/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/glacier/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/graham-e.-lau/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-r.-spear/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mags/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metabolic-redundancy/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenome-assembled-genomes/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/microbial-communities/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/borup-meta/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-e.-grasby/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sulfur/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sulfur-metabolism/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bacteriophages/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-paez-espino/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emiley-eloe-fadrosh/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-becraft/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frank-a.-corsetti/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frederik-schulz/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hope-a.-johnson/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hot-springs/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cone-pool-phage/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-k.-jarett/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenomics/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-dzunkova/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/natalia-ivanova/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nikos-kyrpides/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ramunas-stepanauskas/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sean-p.-jungbluth/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/simon-roux/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephanie-a.-carr/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tanja-woyke/</loc>
+    <lastmod>2020-08-06T21:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/borup-fiord-pass/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/geochemistry/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/borup-16s/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/blake-w.-stamps/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bradley-s.-stevenson/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/caitlin-l.-bojanowski/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cone-pool/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dendrolite-cones/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heather-s.-nunn/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-a.-bradley/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leslie-k.-daille/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sean-j.-loyd/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-m.-berelson/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alexis-s.templeton/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/graham-e.lau/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-r.spear/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julie-cosmidis/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/borup-allotropes/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-e.grasby/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pei-xu/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/stoll-fuel-cell/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zachary-a.-stoll/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhaokun-ma/</loc>
+    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
     <lastmod>2020-04-01T19:53:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christrivedi.com/authors/alexis-s.-templeton/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://christrivedi.com/authors/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/blake-w.-stamps/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/graham-e.-lau/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/john-r.-spear/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication/borup-metagenomics/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication_types/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/stephen-e.-grasby/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication_types/2/</loc>
+    <loc>/</loc>
     <lastmod>2019-11-07T21:25:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christrivedi.com/tags/borup-fiord-pass/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-11-07T21:25:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christrivedi.com/tags/geochemistry/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-11-07T21:25:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christrivedi.com/publication/borup-16s/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/tags/sulfur/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/tags/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/bradley-s.-stevenson/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/caitlin-l.-bojanowski/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication/cone-pool/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/tags/dendrolite-cones/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/frank-a.-corsetti/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/heather-s.-nunn/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/hope-a.-johnson/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/tags/hot-springs/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/james-a.-bradley/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/leslie-k.-daille/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/sean-j.-loyd/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/william-m.-berelson/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/alexis-s.templeton/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/graham-e.lau/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/john-r.spear/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/julie-cosmidis/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication/borup-allotropes/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/stephen-e.grasby/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/pei-xu/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication/stoll-fuel-cell/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/zachary-a.-stoll/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/zhaokun-ma/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/authors/admin/</loc>
-    <lastmod>2020-04-01T19:53:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/post/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/publication/</loc>
-    <lastmod>2019-11-07T21:25:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christrivedi.com/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2019-11-07T21:25:29+01:00</lastmod>
   </url>
   

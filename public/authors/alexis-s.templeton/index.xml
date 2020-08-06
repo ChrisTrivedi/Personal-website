@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexis S.Templeton | Christopher B Trivedi</title>
-    <link>https://christrivedi.com/authors/alexis-s.templeton/</link>
-      <atom:link href="https://christrivedi.com/authors/alexis-s.templeton/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/alexis-s.templeton/</link>
+      <atom:link href="/authors/alexis-s.templeton/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexis S.Templeton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alexis S.Templeton</title>
-      <link>https://christrivedi.com/authors/alexis-s.templeton/</link>
+      <link>/authors/alexis-s.templeton/</link>
     </image>
     
     <item>
       <title>Low-temperature formation and stabilization of rare allotropes of cyclooctasulfur (β-S8 and γ-S8) in the presence of organic carbon at a sulfur-rich glacial site in the Canadian High Arctic</title>
-      <link>https://christrivedi.com/publication/borup-allotropes/</link>
+      <link>/publication/borup-allotropes/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/borup-allotropes/</guid>
+      <guid>/publication/borup-allotropes/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

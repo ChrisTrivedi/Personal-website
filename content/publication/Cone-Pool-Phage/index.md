@@ -17,7 +17,7 @@ authors:
 - Eric Becraft
 - Nikos Kyrpides
 - Ramunas Stepanauskas 
-- Tanja Woyke 
+- Tanja Woyke
 
 
 date: "2020-07-13T00:00:00Z"
@@ -33,8 +33,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ISME"
-publication_short: "The ISME Journal: Multidisciplinary Journal of Microbial Ecology"
+publication: "The ISME Journal: Multidisciplinary Journal of Microbial Ecology"
+publication_short: "ISME"
 
 abstract: Our current knowledge of host–virus interactions in biofilms is limited to computational predictions based on laboratory experiments with a small number of cultured bacteria. However, natural biofilms are diverse and chiefly composed of uncultured bacteria and archaea with no viral infection patterns and lifestyle predictions described to date. Herein, we predict the first DNA sequence-based host–virus interactions in a natural biofilm. Using single-cell genomics and metagenomics applied to a hot spring mat of the Cone Pool in Mono County, California, we provide insights into virus–host range, lifestyle and distribution across different mat layers. Thirty-four out of 130 single cells contained at least one viral contig (26%), which, together with the metagenome-assembled genomes, resulted in detection of 59 viruses linked to 34 host species. Analysis of single-cell amplification kinetics revealed a lack of active viral replication on the single-cell level. These findings were further supported by mapping metagenomic reads from different mat layers to the obtained host–virus pairs, which indicated a low copy number of viral genomes compared to their hosts. Lastly, the metagenomic data revealed high layer specificity of viruses, suggesting limited diffusion to other mat layers. Taken together, these observations indicate that in low mobility environments with high microbial abundance, lysogeny is the predominant viral lifestyle, in line with the previously proposed “Piggyback-the-Winner” theory.
 
@@ -42,13 +42,14 @@ abstract: Our current knowledge of host–virus interactions in biofilms is limi
 summary: ""
 
 tags:
+- Hot Springs
 - Bacteriophages
 - Metagenomics
 featured: false
 
 # links:
 # - name: ""
-   url: "https://www.nature.com/articles/s41396-020-0705-4"
+# url: "https://www.nature.com/articles/s41396-020-0705-4"
 url_pdf: "https://www.nature.com/articles/s41396-020-0705-4.pdf"
 # url_code: ''
 # url_dataset: ''

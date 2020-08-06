@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William M. Berelson | Christopher B Trivedi</title>
-    <link>https://christrivedi.com/authors/william-m.-berelson/</link>
-      <atom:link href="https://christrivedi.com/authors/william-m.-berelson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/william-m.-berelson/</link>
+      <atom:link href="/authors/william-m.-berelson/index.xml" rel="self" type="application/rss+xml" />
     <description>William M. Berelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Trivedi</copyright><lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>William M. Berelson</title>
-      <link>https://christrivedi.com/authors/william-m.-berelson/</link>
+      <link>/authors/william-m.-berelson/</link>
     </image>
     
     <item>
       <title>Carbonate-rich dendrolitic cones: insights into a modern analog for incipient microbialite formation, Little Hot Creek, Long Valley Caldera, California</title>
-      <link>https://christrivedi.com/publication/cone-pool/</link>
+      <link>/publication/cone-pool/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://christrivedi.com/publication/cone-pool/</guid>
+      <guid>/publication/cone-pool/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
