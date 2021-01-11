@@ -25,8 +25,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "files/2020_Trivedi_CV.pdf"
-    weight = 50
-    hrefTarget = "_blank"
+# [[main]]
+#   name = "CV"
+#   url = "files/2020_Trivedi_CV.pdf"
+#  weight = 50
