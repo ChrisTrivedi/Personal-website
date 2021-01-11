@@ -29,4 +29,4 @@
     name = "CV"
     url = "files/2020_Trivedi_CV.pdf"
     weight = 50
-    target= "_blank"
+    hrefTarget = "_blank"
