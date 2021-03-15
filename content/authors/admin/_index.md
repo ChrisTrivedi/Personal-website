@@ -84,4 +84,4 @@ user_groups:
 
 I am currently working as a postdoctoral scholar in the [Interface Geochemistry](https://www.gfz-potsdam.de/en/section/interface-geochemistry/overview/) group of Liane G. Benning at the [German Research Centre for Geosciences GFZ](https://www.gfz-potsdam.de/startseite/) in Potsdam, Germany. Part of my research in this group is to understand the role that biology plays on glacier melt dynamics. While we study all manner of microorganisms that live on glaciers, we are particularly interested in snow and ice algae and their impact on glacial albedo and carbon transformation processes. We use a variety of techniques to answer our research questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, metabolomics, FT-ICR mass spectrometry, etc. Currently, we are focused on glacial environments in Greenland, Iceland, and Norway.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/2020_Trivedi_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/2021_Trivedi_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
